@@ -4,12 +4,12 @@ A fast and colorful zsh script for macOS that helps you identify which folders a
 
 ## Features
 
-- 🎨 **Color-coded output** - Red for GB, yellow for large MB, green for smaller sizes
-- 📈 **Disk usage overview** - Shows overall disk usage at a glance
-- 🔍 **Customizable depth** - Scan as deep as you need
-- ⚡ **Fast and efficient** - Uses native `du` command for speed
-- 🎯 **Sorted results** - Largest folders first
-- 💡 **Helpful tips** - Suggests common macOS space hogs to check
+- **Color-coded output** - Red for GB, yellow for large MB, green for smaller sizes
+- **Disk usage overview** - Shows overall disk usage at a glance
+- **Customizable depth** - Scan as deep as you need
+- **Fast and efficient** - Uses native `du` command for speed
+- **Sorted results** - Largest folders first
+- **Helpful tips** - Suggests common macOS space hogs to check
 
 ## Installation
 
@@ -153,8 +153,7 @@ Contributions are welcome! Feel free to:
 
 ## License
 
-MIT License - feel free to use and modify as needed.
-
+MIT License -
 ## Author
 
 Created to help Mac users reclaim their disk space, one folder at a time.
